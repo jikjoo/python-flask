@@ -6,3 +6,5 @@
 2018-08-06 06:13:34,018 - root - INFO - running envirionment: development
 2018-08-06 06:16:59,513 - root - INFO - running envirionment: development
 2018-08-06 06:16:59,597 - root - INFO - running envirionment: development
+2018-08-07 02:41:59,172 - root - ERROR - 404 Not Found: The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.
+2018-08-07 02:41:59,261 - root - ERROR - 404 Not Found: The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.
